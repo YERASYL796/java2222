@@ -18,7 +18,7 @@ public class tap1 extends JPanel {
 
     public static void main(String[] args) {
         JFrame f = new JFrame("Task 1");
-        f.add(new tap1());
+        f.add(new zad1());
         f.setSize(300, 300);
         f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         f.setVisible(true);
